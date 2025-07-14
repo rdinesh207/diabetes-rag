@@ -75,6 +75,7 @@ From the project root:
 
 ```bash
 docker-compose up --build
+docker exec ollama ollama pull hf.co/mradermacher/MediPhi-PubMed-i1-GGUF:Q6_K
 ```
 
 - **Backend**: http://localhost:5000
