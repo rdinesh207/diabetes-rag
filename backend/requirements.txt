@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+chromadb
+langchain
+transformers
+accelerate
+sentence-transformers>=2.2.2
+biopython
+pymupdf
+google-generativeai
+python-dotenv
+requests 
+pinecone 
