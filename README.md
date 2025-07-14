@@ -15,8 +15,7 @@ This project is a full-stack web application for question-answering and document
 - Ingest and embed scientific PDFs for semantic search.
 - Ask questions and receive answers with citations.
 - Modern, responsive chat UI.
-- Document preview panel.
-- Supports both local and cloud LLMs (Ollama, Gemini, etc.).
+- Supports both local and commercial LLMs (Ollama, Gemini, etc.).
 
 ---
 
